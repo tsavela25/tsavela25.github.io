@@ -6,7 +6,7 @@
 
 *This text is italic*
 
---This text was a mistake--
+~~This text was a mistake~~
 
 Here is an <ins>water</ins> molecule: H<sub>2</sub>O
 
@@ -22,9 +22,9 @@ Here is an <ins>water</ins> molecule: H<sub>2</sub>O
 
 ## List Example
 
--George Washington
--John Adams
--Thomas Jefferson
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 1. James Madison
 2. James Monroe
@@ -41,5 +41,5 @@ Here is an <ins>water</ins> molecule: H<sub>2</sub>O
 [Here is a picture of octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - [x] Task done
-- [] Task to be done
+- [ ] Task to be done
 
