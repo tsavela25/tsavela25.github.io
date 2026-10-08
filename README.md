@@ -38,7 +38,7 @@ Here is an <ins>water</ins> molecule: H<sub>2</sub>O
 
 ## Picture
 
-[Here is a picture of octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+![Here is a picture of octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - [x] Task done
 - [ ] Task to be done
